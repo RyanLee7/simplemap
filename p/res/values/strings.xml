@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">simplemap</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">老严地图</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="hello">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="main_news">更改模式</string>
+    <string name="main_home">附近</string>
+    <string name="more">关于</string>
+    <string name="main_manage_date">更新位置</string>
+    <string name="main_friends">好友</string>
+    <string name="radio_btn_search_bus">公交路线</string>
 </resources>
